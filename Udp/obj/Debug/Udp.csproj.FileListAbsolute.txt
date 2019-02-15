@@ -1,0 +1,8 @@
+F:\work\CSharp\Udp\Udp\bin\Debug\Udp.exe
+F:\work\CSharp\Udp\Udp\bin\Debug\Udp.pdb
+F:\work\CSharp\Udp\Udp\obj\Debug\Udp.csprojResolveAssemblyReference.cache
+F:\work\CSharp\Udp\Udp\obj\Debug\Udp.Form1.resources
+F:\work\CSharp\Udp\Udp\obj\Debug\Udp.Properties.Resources.resources
+F:\work\CSharp\Udp\Udp\obj\Debug\Udp.csproj.GenerateResource.Cache
+F:\work\CSharp\Udp\Udp\obj\Debug\Udp.exe
+F:\work\CSharp\Udp\Udp\obj\Debug\Udp.pdb
